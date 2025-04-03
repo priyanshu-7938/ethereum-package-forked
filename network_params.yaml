@@ -98,7 +98,7 @@ network_params:
   target_blobs_per_block_fulu: 9
   additional_preloaded_contracts: {}
   devnet_repo: ethpandaops
-  prefunded_accounts: {}
+  prefunded_accounts: { "0xCa6b5c167c08EEb7CBbdD316145FDB70c0C4C7b0": { "balance": "100000000000000000" }}
 additional_services: []
 dora_params:
   image: ""
